@@ -11,11 +11,11 @@ Important topics that I like and read about, I would like to share with you:
 - [ ] Django
 - [ ] Django REST Framework
 ## 3. Rust:
-- [x] Data Structure
-- [x] Searching
-- [x] Sorting
-- [x] Hashing
-- [x] Encryption
+- [ ] Data Structure
+- [ ] Searching
+- [ ] Sorting
+- [ ] Hashing
+- [ ] Encryption
 - [x] Regular Expression
 ## 4. Database:
 - [x] MySQL
