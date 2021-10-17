@@ -1,4 +1,8 @@
 # Rust
 Topics:
-- Data
-- Algorithm
+- [ ] Data Structure
+- [ ] Searching
+- [ ] Sorting
+- [ ] Hashing
+- [ ] Encryption
+- [x] Regular Expression
