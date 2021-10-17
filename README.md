@@ -35,12 +35,12 @@ Important topics that I like and read about, I would like to share with you:
 - [x] Design Pattern
 - [x] Service Oriented Design
 - [x] Big Scale Concepts
-- Test Driven Development(TDD)
-- Continuous Integration and Continuous Delivery(CI/CD)
+- [ ] Test Driven Development(TDD)
+- [ ] Continuous Integration and Continuous Delivery(CI/CD)
 - [x] Version Control System and Git
-- System Stability
-- System Delay
-- Data Security
-- Data Compression 
+- [ ] System Stability
+- [ ] System Delay
+- [ ] Data Security
+- [ ] Data Compression 
 ## 7. Research:
 - [x] Blockchain Area
