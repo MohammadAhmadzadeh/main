@@ -26,10 +26,11 @@ Important topics that I like and read about, I would like to share with you:
 ## 5. Related stuff to before topics:
 - [x] JSON
 - [x] XML
-- [ ] Websocket
+- [ ] Web Socket
 - [ ] Smart Contrcts
 - [ ] Google Map
 - [ ] Amazon and othe iCloud Servers
+- [x] Linux is Love
 ## 6. Engineering:
 - [x] Architecture
 - [x] Development process
@@ -44,4 +45,5 @@ Important topics that I like and read about, I would like to share with you:
 - [ ] Data Security
 - [ ] Data Compression 
 ## 7. Research:
-- [x] Blockchain Area
+- [ ] Blockchain Area
+- [ ] Decentralized Apps(DApps)
